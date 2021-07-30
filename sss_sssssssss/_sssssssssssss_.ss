@@ -43,8 +43,8 @@ sssssss.sssssssssss = {
 
 // ssss: ssssssssss ss ssssssssss
 sssssss.ssssssssssssssssss = {
-    'ss_sss': 'sssssss. s',
-    'ss_sssss': 'sssssss. $s',
+    'ss_sss': '$s',
+    'ss_sssss': '$s',
     'ss_sss': 'sssssss. s',
     'ss_sssss': 'sssssss. s.s',
     'ss_sss': 'sssssss. ss',
